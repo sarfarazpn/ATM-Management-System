@@ -54,8 +54,7 @@ bank_atm.exe  # On Windows
 - 📱 **Mobile App Integration**: Develop a mobile app for easy access to banking operations.
 - 🛡 **Advanced Security**: Implement multi-factor authentication for improved security.
 
-## Contributors
-- **[Arif]** - Developer
+
 
 
 
